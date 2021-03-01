@@ -323,6 +323,11 @@ table td {
     width: 70%;
     text-align: center;
     padding: 10px 0;
+    word-break: break-word;
+}
+
+.banner {
+    width: 70%;
 }
 
 
